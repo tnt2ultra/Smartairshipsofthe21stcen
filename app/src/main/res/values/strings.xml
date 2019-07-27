@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Умные дирижабли 21 века</string>
+    <string name="buttonStartStr">Просмотр карты</string>
+    <string name="buttonStartStr1">Выбор позиции выгрузки</string>
+    <string name="mapurl">https://goo.gl/maps/X1XBRqh1EC3omCTu6</string>
+    <string name="mapTextBefore">Начата загрузка карты</string>
+    <string name="mapTextAfter">Карта загружена</string>
+    <string name="buttonSetMap">Хочу сюда доставить</string>
+    <string name="buttonSetMap1">Подтвердить позицию выгрузки</string>
+    <string name="chooseText">Найдите ровную площадку радиусом 5-10 метров (*)</string>
+    <string name="chooseTextPS">(*) В радиусе 5-10 метров не должно быть зданий, водоёмов и линий электропередач</string>
+    <string name="invoiceText">Введите номер Вашего заказа</string>
+    <string name="invoiceNum">12345</string>
+    <string name="invoiceNum1">номер заказа</string>
+    <string name="txtRadioButton1">Оставить посылку на земле</string>
+    <string name="txtRadioButton2">Ожидать на высоте</string>
+    <string name="txtButtonData">Выберите дату доставки</string>
+    <string name="txtButtonTime">Выберите желательное время доставки</string>
+    <string name="txtViewDate">27 июля 2019 г., 16:30</string>
+    <string name="txtbuttonOrder">Заказать доставку</string>
+    <string name="date_picker_title">Дата доставки:</string>
+    <string name="time_picker_title">Время доставки:</string>
+    <string name="textViewDron">Дрон вылетел</string>
+    <string name="textViewDron2">До прибытия осталось:</string>
+    <string name="textViewRest">мин.</string>
+    <string name="itsTime">Подходите к месту получения груза</string>
+    <string name="textViewDron_new">Дрон прилетел</string>
+    <string name="textViewDron2_new">Получите груз</string>
+    <string name="textButtonDown">Опустить груз</string>
+    <string name="textButtonReceive">Получено</string>
+    <string name="textButtonReview">Оставить отзыв</string>
+    <string name="thanks">Спасибо за отзыв</string>
+    <string name="textReview">Спасибо, подстриг газон</string>
+</resources>
